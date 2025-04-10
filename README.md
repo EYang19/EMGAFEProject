@@ -10,5 +10,5 @@ Following things can be found in below:
 - Oscillosocpe Bode plot data file
 
 
-Check matlab code if there is something missing in sEMG RMS data
-Converting script in python and other data is in LTspice zip file uploaded
+Check matlab code if there is something missing in sEMG RMS data.
+Converting script in python and other data is in LTspice zip file uploaded.
